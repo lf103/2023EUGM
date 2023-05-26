@@ -14,3 +14,6 @@ External resources
 * [FOLIO API documentation](https://dev.folio.org/reference/api/)
 
 * [Python learning resources](https://www.python.org/about/gettingstarted/)
+
+* [Folio Client for Python](https://github.com/FOLIO-FSE/FolioClient)
+
