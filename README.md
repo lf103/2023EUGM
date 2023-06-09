@@ -3,6 +3,7 @@
 
 Resources in this repository
 ---------------
+* Presentation slides
 
 * Excel Template for your FOLIO Locations and Data Types
 
