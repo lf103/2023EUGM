@@ -1,4 +1,4 @@
-# Post-migration Data Clean-up in FOLIO
+# Post-Migration Data Clean-Up in FOLIO
 2023 EBSCO User Group Meeting (9 June 2023)
 
 Resources in this repository
